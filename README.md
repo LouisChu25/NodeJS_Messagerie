@@ -1,8 +1,8 @@
 
 #  NodeJS
-## Getting Started
+## commencer
 
-Sometimes you need a longer description to discuss about the project before developers get started working on the project
+Nous devons réaliser une messagerie grâce a nodejs pour le backend et du vuejs pour le front.
 
 ### Prerequisites
 
