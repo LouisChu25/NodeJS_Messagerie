@@ -9,13 +9,12 @@ Nous devons réaliser une messagerie grâce a nodejs pour le backend et du vuejs
 
 Installation du projet
 
-* Do we need to give credit to other people or groups? May be fun to share the love here. 
 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compile et recharge à chaud pour le développement
 ```
 npm run serve
 ```
