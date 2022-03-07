@@ -4,12 +4,12 @@
 
 Nous devons réaliser une messagerie grâce a nodejs pour le backend et du vuejs pour le front.
 
-### Prerequisites
+### Conditions préalables
 
 Sometimes there are libs that are necessary to run the projects
 
 - [Some lib to install](https://www.npmjs.com/)
-- [Some other setup required maybe a database](https://en.wikipedia.org/wiki/Database/)
+
 
 ### Installing
 
