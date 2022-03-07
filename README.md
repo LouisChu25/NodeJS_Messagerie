@@ -31,7 +31,6 @@ npm run lint
 ```
 
 
-## Contribuant
+## Contributeur
 
-Sometimes is nice to tell people to go to another documentation :-( to make sure this readme doesn't get too long. So might as well create a contribution guidline markdown file and link it here. [CONTRIBUTING.md](https://github.com/meroware) this will help you know the rules of how to contribute.
-
+Louis Chu, Cedric Jamme, Louis Nourry, Timothée Popesco
