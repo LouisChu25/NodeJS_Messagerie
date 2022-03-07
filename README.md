@@ -9,9 +9,6 @@ Nous devons réaliser une messagerie grâce a nodejs pour le backend et du vuejs
 
 Installation du projet
 
-```
-Commands would be good please
-```
 * Do we need to give credit to other people or groups? May be fun to share the love here. 
 
 ```
