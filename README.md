@@ -69,12 +69,6 @@ Omg foreals, I have to do deployment notes too??? Yep...
 
 Make sure to write notes about deployment, is it just merging to master to trigger [Github Actions Pipeline](https://www.youtube.com/watch?v=eGEumlRlqHc)
 
-## Diagrams
-
-It's always nice to have some diagrams that will help show the high level design. Only do this when appplies 
-
-![Diagram](https://github.com/meroware/example-aws-services-github-worflows/blob/master/diagram.png)
-
 ## Contributing
 
 Sometimes is nice to tell people to go to another documentation :-( to make sure this readme doesn't get too long. So might as well create a contribution guidline markdown file and link it here. [CONTRIBUTING.md](https://github.com/meroware) this will help you know the rules of how to contribute.
