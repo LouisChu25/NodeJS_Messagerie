@@ -25,7 +25,7 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
+### Fichiers de peluches et de correctifs
 ```
 npm run lint
 ```
@@ -33,4 +33,4 @@ npm run lint
 
 ## Contributeur
 
-Louis Chu, Cedric Jamme, Louis Nourry, Timothée Popesco
+Louis Chu, Cedric Jamme, Louis Nourry, Timothée Popesco, William Mouchon
